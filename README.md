@@ -19,10 +19,10 @@ Translated: My dynamic numbers are not accurate yet so play with them knowing th
 ![Car Setup Properties 1](https://user-images.githubusercontent.com/8271391/141012617-e09c778d-3826-4d98-bc1d-1e6c324b2c49.png)
 ![Car Setup Properties 2](https://user-images.githubusercontent.com/8271391/141012629-167b2403-d644-4757-b079-51998c63ae57.png)
 
-Here are a pic of my screen with the dashboards (minus the tire pressure and wear dashboard) that I created with the new data feeds provided by the plugin.
+Here are a pic of my screen with the dashboards that I created with the new data feeds provided by the plugin.
 
 
-![full screen next gen overlays](https://user-images.githubusercontent.com/8271391/141015701-e462a458-d8a5-448c-8b61-383d05023809.png)
+![full screen next gen overlays](https://user-images.githubusercontent.com/8271391/141017841-1df8426d-fd1f-4b2f-b71c-b5b9d6be591e.png)
 
 
 I have created directories for the source code, compiled plugins and the dashboards.  Remember, you can make your own dashboards using the new data feeds.
