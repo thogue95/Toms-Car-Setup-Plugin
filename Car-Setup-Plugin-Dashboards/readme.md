@@ -21,16 +21,18 @@ This dashboard does the basic calculations from the garage weights and ride heig
 
 Note: The On Track Heights and On Track Weights are lacking accuracy when running fast laps. These are work in progress but you might find them useful.
 
-On Track Heights Dashboard: 
+On Track Data Dashboard: 
 Each wheel has three pieces of data:
-  Actual
+  Actual - Current reading
   Min - Minimum
   Max - Maximum
  The objective was to capture the high and low heights
  
  Rake - Actual, Minimum, Maximum.  This is the center line rake front to back.
+ Cross Weight - Actual, Minium, Maximum
  
- ![On Track Heights](https://user-images.githubusercontent.com/8271391/141022205-93d375be-52c5-4858-bd70-df94ce4434de.png)
+![On Track Data](https://user-images.githubusercontent.com/8271391/141023810-5d74b8a8-e613-4601-a138-543584954aa7.png)
+
 
 On Track Weights:
 
