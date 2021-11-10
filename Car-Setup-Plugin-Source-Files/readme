@@ -1,0 +1,18 @@
+Car Setup Plugin Source Files
+
+The objective of this plugin is to provide data that is useful when building a car setup to the driver when in the car.  
+Useful data comes in two forms, Static and Dynamic.  Easier terms are On-track and Garage data.  Both are interchangeable terms.
+
+The source code is hopefully easy to read.  I use the shock travel as a measuring tool to determine dynamic ride heights.  The results of those calculations are
+pretty accurate when on pit road or when doing a slow lap.  Accuracy is lost when traveling a full speed.
+
+You will see commented out lines of code where I used property values to do some debug.
+
+Also you will see that only SK Modifieds, Tour Modifieds, NextGen and Trucks are supported.  Those are pretty much the cars I have been driving lately.
+
+Static data all appears to be accurate.
+
+This is an EARLY work in progress so let me know if you find any errors and have any fixes.
+
+
+Have fun.
