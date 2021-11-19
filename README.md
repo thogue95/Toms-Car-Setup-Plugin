@@ -1,4 +1,8 @@
 # Toms-Car-Setup-Plugin
+
+Update 11-19-2012: I have found that the lrShockDeflectionZero variable is at 0 when it should have a value.  Working on resolving it.
+
+
 Plugin to expose data for car setup dashboards and associated dashboards
 
 Important!!!  Read before you do anything.
