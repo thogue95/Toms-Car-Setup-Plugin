@@ -1,5 +1,7 @@
 # Toms-Car-Setup-Plugin
 
+Update 1-7-2022: Adding installation instructions for Simhub and plugins.
+
 Update 11-20-2021: The lrShockDeflectionZero has been fixed but code not updated yet as I had realized that my calculations while correct, did not account for foces under speed like down force and how the tires are compressing under those loads.  Working on modeling and hoping to have an update soon.  This explains why my slow speed laps have accurate ride heights but full speed laps do not.  As a result, we will have Downforce numbers available in a dashboard when this is completed.
 
 Update 11-19-2021: I have found that the lrShockDeflectionZero variable is at 0 when it should have a value.  Working on resolving it.
