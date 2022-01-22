@@ -17,7 +17,7 @@ Currently, it is only supporting the SKModifieds, Tour Modifieds, NextGen and Tr
 
 There are two types of data it exposes.  Static (Off Track) and Dynamic (On Track).
 
-The Static(Off Track) data is essentially what is available in the Garage for ride heights, weight distributions and rake.  You can easily just use a calculator to find these numbers, but the idea is that you can use a Simhub dashboard to be able to see it while in the car.  They are accurate and work perfectly.
+The Static(Off Track) data is essentially what is available in the Garage for ride heights, weight distributions and rake.  You can easily just use a calculator to find these numbers, but the idea is that you can use a Simhub dashboard to be able to see it while in the car.  They are accurate and work perfectly.  You must go into the Garage before you get in the car otherwise you will see NaN in the plugins.  This data is not available until you go in the garage and so once you do then the data is available while in the car on the track.
 
 The dynamic numbers are a WORK IN PROGRESS.  These numbers are derived mostly from the shock travel telemetry feeds and so while I am pretty confident in my calculations, there is a problem with the data when I compare them to data in the telemtry apps like Atlas and Motec.  
 
